@@ -38,3 +38,5 @@ for i in range(6):
 
 plt.show()
 <img width="669" height="358" alt="Screenshot 2026-02-18 092252" src="https://github.com/user-attachments/assets/8cca4425-df39-4d6a-a07b-7a3f2b437f5f" />
+<img width="1598" height="749" alt="image" src="https://github.com/user-attachments/assets/5278d777-bdba-44ca-bfe3-9fad18eb670b" />
+
